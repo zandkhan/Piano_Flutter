@@ -2,7 +2,7 @@
 
 Piano flutter very simple to train
 
-<img src = "images/img.png" width = 300/>
+<img src = "asset/images/img.png" width = 300/>
 
 ## Getting Started
 
